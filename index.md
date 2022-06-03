@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/S7HUANG/s7huang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Analytics
 
-### Markdown
+[Form Tai Po from A Flood-prone Town to A Water-resilient City](https://htmlpreview.github.io/?https://github.com/kristinchang/CPLN675Midterm/blob/main/Chang_Epstein_Midterm.html)
+<br><br>
+This project utilizes a generalized linear model to predict areas of future flooding in Denver, Colorado trained on past data from the City of Calgary in Canada. The predictions are intended to hypothetically inform Denver City Agencies such as Public Works, Public Health, City Planning, and Emergency Management to better prepare for future flooding disasters. This was the midterm exercise for the Land Use and Environmental Modeling course taught in R at UPenn in Spring 2021. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="images/WaterResilienceGuideline.png"/>
 
-```markdown
-Syntax highlighted code block
+---
+[Analyzing Driving factors of Land Price Based on Big Data in New York](https://kristinchang.github.io/MUSA550-Final-BazilChang/)
+<br><br>
+Toolkit for a Green New Deal consists of a Sentiment Analysis of tweets using the hashtag #GreenNewDeal, a Spatial Analysis of Fossil Fuel Infrastructure and Air Pollution, and an analysis of Air Pollution levels in Louisiana from 2001-2014 - all with interactive charts! These analyses are meant to provide digestible summaries of complex datasets for policymakers advocating for environmental justice in regions most impacted by fossil fuel production and climate change. This was the final project for the Geospatial Data Science in Python course at UPenn in Fall 2021.
 
-# Header 1
-## Header 2
-### Header 3
+<img src="images/LandPrice.png"/>
 
-- Bulleted
-- List
+---
+[The Environmental Impacts of Urban Sprawl Evaluation in Xiamen, China](https://www.design.upenn.edu/city-regional-planning/graduate/work/saint-thomas-resilience-plan)
+<br><br>
+The St. Thomas Resilience Plan was created in the 2nd year City Planning Studio for St. Thomas located in the U.S. Virgin Islands to address the island's vulnerability to climate change and sea level rise. Notable contributions include construction of a St. Thomas specific Social Vulnerability Index (pg. 24-25), Demographic and Socioeconomic analyses (pg.26-27), mapping traffic patterns (pg. 68), and graphic design and layout of the Existing Conditions section (pg. 24-29).
 
-1. Numbered
-2. List
+<img src="images/UrbanSprawl.jpg"/>
 
-**Bold** and _Italic_ and `Code` text
+---
+[London Air Quality Report](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
+<br><br>
+This project consists of a Geospatial Risk Model to predict areas at risk of gentrification in Philly. Filings of new construction permits are used as a proxy for gentrification because they are strong indicators of new development. The predictions would hypothetically inform housing agencies that provide support or resources to individuals at risk of home foreclosure in order to help them maintain ownership status of their homes. This project was part of the final for the Public Policy Analytics course at UPenn in Fall 2020.
 
-[Link](url) and ![Image](src)
-```
+<img src="images/relationshipNO2.png"/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
+[Kwun Tong: The Livable Neighborhood](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
+<br><br>
+This projects breaks down the process of building predictive policing models and why there is prevalent bias in these algorithms that makes them extremely harmful to black and brown communities. Such models are created on foundations of selection biases that perpetrate cycles of unjust over-policing. This is exemplified in by the analysis and hotspot mapping of crime reports in Chicago for unlawful cannabis possession. This exercise was completed for the Public Policy Analytics course at UPenn in Fall 2020.
 
-### Jekyll Themes
+<img src="images/KwunTong.png"/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/S7HUANG/s7huang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Writing and Design Samples
+
+- [DRAFT Policy Memo: Recidivism Algorithm for Statewide Prison to Employment Iniative in Oakland, CA](/pdf/MUSA508_HW5_KristinChang.pdf)
+- [DRAFT Policy Memo: Policy Recommendations for Crime Mapping in Oakland, CA](/pdf/CPLN520_FinalProject_KristinChang.pdf)
+- [CASE STUDY: Vineyard Wind 1, First U.S. Large-Scale Offshore Wind Project in Massachusetts](/pdf/CCTermPaper1.pdf)
+
+---
+
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
