@@ -4,7 +4,7 @@
 
 ### Data Analytics
 
-[Form Tai Po from A Flood-prone Town to A Water-resilient City](https://htmlpreview.github.io/?https://github.com/kristinchang/CPLN675Midterm/blob/main/Chang_Epstein_Midterm.html)
+[Tai Po: From A Flood-prone Town to A Water-resilient City](https://issuu.com/s7_h/docs/6402_final_recommended_report_sl)
 <br><br>
 This project utilizes a generalized linear model to predict areas of future flooding in Denver, Colorado trained on past data from the City of Calgary in Canada. The predictions are intended to hypothetically inform Denver City Agencies such as Public Works, Public Health, City Planning, and Emergency Management to better prepare for future flooding disasters. This was the midterm exercise for the Land Use and Environmental Modeling course taught in R at UPenn in Spring 2021. 
 
