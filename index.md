@@ -4,7 +4,7 @@
 
 ### Data Analytics
 
-[Tai Po: From A Flood-prone Town to A Water-resilient City](https://issuu.com/s7_h/docs/6402_final_recommended_report_sl)
+[Tai Po: From A Flood-prone Town to A Water-resilient City](https://issuu.com/s7_h/docs/6402_final_recommended_report_s)
 <br><br>
 This project utilizes a generalized linear model to predict areas of future flooding in Denver, Colorado trained on past data from the City of Calgary in Canada. The predictions are intended to hypothetically inform Denver City Agencies such as Public Works, Public Health, City Planning, and Emergency Management to better prepare for future flooding disasters. This was the midterm exercise for the Land Use and Environmental Modeling course taught in R at UPenn in Spring 2021. 
 
@@ -18,14 +18,14 @@ Toolkit for a Green New Deal consists of a Sentiment Analysis of tweets using th
 <img src="images/LandPrice.png"/>
 
 ---
-[The Environmental Impacts of Urban Sprawl Evaluation in Xiamen, China](https://www.design.upenn.edu/city-regional-planning/graduate/work/saint-thomas-resilience-plan)
+[Evaluating the Environmental Impacts of Urban Sprawl in Xiamen, China](https://www.design.upenn.edu/city-regional-planning/graduate/work/saint-thomas-resilience-plan)
 <br><br>
 The St. Thomas Resilience Plan was created in the 2nd year City Planning Studio for St. Thomas located in the U.S. Virgin Islands to address the island's vulnerability to climate change and sea level rise. Notable contributions include construction of a St. Thomas specific Social Vulnerability Index (pg. 24-25), Demographic and Socioeconomic analyses (pg.26-27), mapping traffic patterns (pg. 68), and graphic design and layout of the Existing Conditions section (pg. 24-29).
 
 <img src="images/UrbanSprawl.jpg"/>
 
 ---
-[London Air Quality Report](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
+[London Air Quality Report](https://htmlpreview.github.io/?https://github.com/S7HUANG/s7huang.github.io/blob/main/pdf/6001_FinalReport.pdf.html)
 <br><br>
 This project consists of a Geospatial Risk Model to predict areas at risk of gentrification in Philly. Filings of new construction permits are used as a proxy for gentrification because they are strong indicators of new development. The predictions would hypothetically inform housing agencies that provide support or resources to individuals at risk of home foreclosure in order to help them maintain ownership status of their homes. This project was part of the final for the Public Policy Analytics course at UPenn in Fall 2020.
 
