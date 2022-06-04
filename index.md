@@ -25,7 +25,7 @@ The St. Thomas Resilience Plan was created in the 2nd year City Planning Studio 
 <img src="images/UrbanSprawl.jpg"/>
 
 ---
-[London Air Quality Report](https://htmlpreview.github.io/?https://github.com/S7HUANG/s7huang.github.io/blob/main/pdf/6001_FinalReport.pdf.html)
+[London Air Quality Report](https://raw.githubusercontent.com/S7HUANG/s7huang.github.io/main/pdf/6001_FinalReport.pdf)
 <br><br>
 This project consists of a Geospatial Risk Model to predict areas at risk of gentrification in Philly. Filings of new construction permits are used as a proxy for gentrification because they are strong indicators of new development. The predictions would hypothetically inform housing agencies that provide support or resources to individuals at risk of home foreclosure in order to help them maintain ownership status of their homes. This project was part of the final for the Public Policy Analytics course at UPenn in Fall 2020.
 
