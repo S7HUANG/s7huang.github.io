@@ -53,7 +53,7 @@ Lockdown measures to contain the COVID-19 pandemic have resulted in a considerab
 
 In the Vision 2030+ plan, Kwun Tong is shaped to be the CBD2, a new business hub after Central. Therefore, this project aims to investigate the future possibilities of Kwun Tong by studying three scenarios: to understand Kwun Tong position as a CBD in Hong Kong when compared with CBD 1 and CBD 3, to address the connectivity issues, and to improve Kwun Tong as a better community by studying GIC allocation. This was the final project for the Spatial Planning Analytics course at HKU in Fall 2021.
 
-[Click Here to View the Report](/pdf/6008_FinalReport.pdf)
+- [Click Here to View the Report](/pdf/6008_FinalReport.pdf)
 
 ---
 
