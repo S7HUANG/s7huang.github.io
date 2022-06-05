@@ -36,7 +36,7 @@ How cities develop in the years to come will determine progress in addressing ke
 
 ---
 
-## London Air Quality Report
+### London Air Quality Report
 
 <img src="images/relationshipNO2.png"/>
 
