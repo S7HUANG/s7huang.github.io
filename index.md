@@ -19,7 +19,7 @@ Nowadays, climate change has become an issue that has to be faced head-on, and s
 
 <img src="images/LandPrice.png"/>
 
-Studying the influential factors on the land value can help better understand the spatial-temporal variation of land values and design effective control policies. More than 500 potential factors are considered in this project, covering the land attribute, demographics, economics, public safety, transportation, and point of interest, which are further selected using Recursive Feature Elimination. Five machine learning algorithms, including Random Forest, Gradient Boosting Decision Tree, Multi Linear Regression, Multilayer Perceptron Regression, and K-Nearest Neighbour Regression are evaluated and compared. This was the final project for the Urban Big Data Analysis course taught in Python at HKU in Spring 2022.
+Studying the influential factors on the land value can help better understand the spatial-temporal variation of land values and design effective control policies. More than 500 potential factors are considered in this project, covering the land attribute, demographics, economics, public safety, transportation, and point of interest, which are further selected using Recursive Feature Elimination(RFE). Five machine learning algorithms, including Random Forest(RF), Gradient Boosting Decision Tree(GBDT), Multi Linear Regression(MLR), Multilayer Perceptron Regression(MLP), and K-Nearest Neighbour Regression(KNN) are evaluated and compared. This was the final project for the Urban Big Data Analysis course taught in Python at HKU in Spring 2022.
 
 - [Click Here to View the Report](/pdf/6002_FinalReport.pdf)
 
