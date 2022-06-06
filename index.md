@@ -15,7 +15,7 @@ Nowadays, climate change has become an issue that has to be faced head-on, and s
 
 ---
 
-### Analyzing Driving factors of Land Price Based on Big Data in New York
+### Analyzing Driving factors of Land Value Based on Big Data in New York
 
 <img src="images/LandPrice.png"/>
 
