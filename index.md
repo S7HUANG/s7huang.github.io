@@ -57,5 +57,11 @@ In the Vision 2030+ plan, Kwun Tong is shaped to be the CBD2, a new business hub
 
 ---
 
+## Notebooks
+
+- [Airbnb Price Analysis](https://htmlpreview.github.io/?https://github.com/S7HUANG/s7huang.github.io/blob/main/html/S7_airbnb_price_analysis.html)
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
