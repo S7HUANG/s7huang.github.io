@@ -32,7 +32,6 @@ Studying the influential factors on the land value can help better understand th
 How cities develop in the years to come will determine progress in addressing key environmental, economic and social challenges. This project analyses the impact of urban sprawl on the ecological environment in Xiamen city to provide insights for future development. The GIS spatial analysis method and the RSEI remote sensing ecological model are used as technical tools to restore and analyze the urban and ecological environment of Xiamen and to explore the relationship between the continuous urban expansion and ecological environment changes. This was the final project for the Programming and AI for Future Cities course taught in Python at HKU in Spring 2022.
 
 - [Click Here to View the Report](/pdf/6003_FinalReport.pdf)
-- [Click Here to Go to the Project's Repository](https://github.com/S7HUANG/URBA6003)
 
 ---
 
