@@ -4,7 +4,7 @@
 
 ## Data Analytics
 
-### Tai Po: From A Flood-prone Town to A Water-resilient City
+### Integrating Innovative Solution of Transforming Tai Po into Water Resilience Town
 
 <img src="images/WaterResilienceGuideline.png"/>
 
@@ -47,7 +47,7 @@ Lockdown measures to contain the COVID-19 pandemic have resulted in a considerab
 
 ---
 
-### Kwun Tong: The Livable Neighborhood
+### Assessing the Future Development Value of Kwun Tong as CBD2
 
 <img src="images/KwunTong.png"/>
 
