@@ -4,7 +4,7 @@
 
 ## Data Analytics
 
-### Integrating Innovative Solution of Transforming Tai Po into Water Resilience Town
+### Integrating Solution of Transforming Tai Po into Water Resilience Town
 
 <img src="images/WaterResilienceGuideline.png"/>
 
@@ -36,6 +36,16 @@ How cities develop in the years to come will determine progress in addressing ke
 
 ---
 
+### Assessing the Future Development Value of Kwun Tong as CBD2
+
+<img src="images/KwunTong.png"/>
+
+In the Vision 2030+ plan, Kwun Tong is shaped to be the CBD2, a new business hub after Central. Therefore, this project aims to investigate the future possibilities of Kwun Tong by studying three scenarios: to understand Kwun Tong position as a CBD in Hong Kong when compared with CBD 1 and CBD 3, to address the connectivity issues, and to improve Kwun Tong as a better community by studying GIC allocation. This was the final project for the Spatial Planning Analytics course at HKU in Fall 2021.
+
+- [Click Here to View the Report](/pdf/6008_FinalReport.pdf)
+
+---
+
 ### London Air Quality Report
 
 <img src="images/relationshipNO2.png"/>
@@ -44,16 +54,6 @@ Lockdown measures to contain the COVID-19 pandemic have resulted in a considerab
 
 - [Click Here to View the Report](/pdf/6001_FinalReport.pdf)
 - [Click Here to Go to the Project's Repository](https://github.com/S7HUANG/URBA6001)
-
----
-
-### Assessing the Future Development Value of Kwun Tong as CBD2
-
-<img src="images/KwunTong.png"/>
-
-In the Vision 2030+ plan, Kwun Tong is shaped to be the CBD2, a new business hub after Central. Therefore, this project aims to investigate the future possibilities of Kwun Tong by studying three scenarios: to understand Kwun Tong position as a CBD in Hong Kong when compared with CBD 1 and CBD 3, to address the connectivity issues, and to improve Kwun Tong as a better community by studying GIC allocation. This was the final project for the Spatial Planning Analytics course at HKU in Fall 2021.
-
-- [Click Here to View the Report](/pdf/6008_FinalReport.pdf)
 
 ---
 
