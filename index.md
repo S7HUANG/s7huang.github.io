@@ -10,7 +10,7 @@
 
 Nowadays, climate change has become an issue that has to be faced head-on, and society has the responsibility to respond to such issues. This project aims to analyse and enhance the stormwater management capacity in Tai Po while developing a guideline and design toolkit that assists the cooperation between different departments. Through conducting quantitative analysis and questionnaire survey to assess capacities, and training the segmentation model U-Net to enhance the reproducibility of the design toolkit. This was the capstone project for Smart Planning and Design Studio course taught in ArcGIS and Python at HKU in Spring 2022.
 
-- [Click Here to View the Report](https://issuu.com/s7_h/docs/6402_final_recommended_report_s)
+- [Click Here to View the GeoLab Presentation](https://issuu.com/s7_h/docs/group_presentation_1_-_tai_po_from_a_flood-prone_t)
 - [Click Here to Go to the Project's Repository](https://github.com/S7HUANG/URBA6402_Unet)
 
 ---
